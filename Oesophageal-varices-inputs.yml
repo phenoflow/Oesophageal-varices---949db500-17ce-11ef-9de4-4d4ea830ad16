@@ -1,0 +1,45 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/oesophageal-varices-bleeding---primary.py
+inputModule3:
+  class: File
+  path: python/varices---primary.py
+inputModule4:
+  class: File
+  path: python/other-oesophageal-varices---primary.py
+inputModule5:
+  class: File
+  path: python/oesophageal-varices-banding---primary.py
+inputModule6:
+  class: File
+  path: python/oesophageal-varices---primary.py
+inputModule7:
+  class: File
+  path: python/upper-oesophageal-varices---primary.py
+inputModule8:
+  class: File
+  path: python/local-oesophageal-varices---primary.py
+inputModule9:
+  class: File
+  path: python/oesophageal-varices-specified---primary.py
+inputModule10:
+  class: File
+  path: python/oesophagoscopic-oesophageal-varices---primary.py
+inputModule11:
+  class: File
+  path: python/oesophageal-varices-operation---primary.py
+inputModule12:
+  class: File
+  path: python/oesophageal-varices-classified---primary.py
+inputModule13:
+  class: File
+  path: python/oesophageal-varices-procedure---primary.py
+inputModule14:
+  class: File
+  path: python/oesophageal-varices-transection---primary.py
+inputModule15:
+  class: File
+  path: python/output-cases.py
